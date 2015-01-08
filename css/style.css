@@ -1,0 +1,111 @@
+
+.list
+{
+	display:inline;
+
+}
+.links
+{
+	text-align:center;
+
+}
+.home,.WDP ,.ESDP,.Contact,.Blog 
+{
+	padding:20px;
+	text-decoration: none;
+	color:black;
+	font-weight: bold;
+
+}
+#name
+{text-align:center;
+}
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+	
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+  z-index:-2;
+}
+.WDI_list
+{
+	display:inline;
+
+}
+.WDI_Projects
+{
+	text-align:center;
+
+}
+.Project1,.Project2 ,.Project3,.Project4
+{
+	padding:100px;
+	text-decoration: none;
+	font-weight: bold;
+	color:#FF9900;
+
+}
+#heading_WDI
+{
+	text-align:center;
+	color:#FF9900;
+	display:inline;
+}
+#bg_WDI{
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+	
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+  z-index:-2;
+}
+#bg_ESDP{
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+	
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+  z-index:-2;
+  opacity:0.5;
+}
+#bg_home{
+margin-top: 0;
+float:right;
+padding-top: 0;
+ width:42px;
+ height:42px;
+ border:0;
+}
+.WDI_content_content{font-weight:bold;}
+#bg_home_blue{
+margin-top: 0;
+float:right;
+padding-top: 0;
+width:42px;
+height:42px;
+ border:0;
+}
+.ESDP_projects>a{
+  color:white;
+}
+.Project_1,.Project_2 ,.Project_3,.Project_4
+{
+  padding:100px;
+  text-decoration: none;
+  
+  color:white;
+}
+#heading_ESDP
+{
+  text-align:center;
+  color:white;
+  display:inline;
+  font-weight: bold;
+}
