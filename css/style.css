@@ -63,6 +63,7 @@
   min-width: 100%;
   min-height: 100%;
   z-index:-2;
+  opacity:0.5;
 }
 #bg_ESDP{
   position: fixed; 
@@ -108,4 +109,12 @@ height:42px;
   color:white;
   display:inline;
   font-weight: bold;
+}
+#bg_home_contact{
+margin-top: 0;
+float:right;
+padding-top: 0;
+width:42px;
+height:42px;
+ border:0;
 }
